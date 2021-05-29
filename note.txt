@@ -1,3 +1,0 @@
-模型部署参考资料链接：
-    https://codechina.csdn.net/mirrors/XavierJiezou/pytorch-cnn-mnist
-resnet网络模型实现参考资料链接：
